@@ -7,7 +7,9 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=David+M%C3%A9ndez++;+Full-Stack-Web-Developer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&lines=Anyel+Lopez++;+Full-Stack+Web+Developer"></a>
+
+    
 </p>
 
 <!-- Social icons section -->
@@ -22,8 +24,10 @@
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<p align="left">
+<p align="center">
   <a href="https://github.com/ferbihu/PF-GRUPAL"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ferbihu&repo=PF-GRUPAL&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="PF-GRUPAL"></a>
+  <a href="https://github.com/any-18/PI-Pokemon"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=any-18&repo=PI-Pokemon&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="PI-POKEMON"></a>
+  <a href="https://github.com/any-18/BreakingBad"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=any-18&repo=BreakingBad&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Repaso BREAKINGBAND"></a>
 </p>
 
 ## 🔥 Estadisticas
